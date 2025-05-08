@@ -1,0 +1,14 @@
+#btn1 {
+    color:white;
+    background-color: red;
+    border:0.7px solid white;
+
+}
+.dark {
+    background-color: black;
+    color: white;
+}
+.light {
+    background-color: white;
+    color: black;
+}
